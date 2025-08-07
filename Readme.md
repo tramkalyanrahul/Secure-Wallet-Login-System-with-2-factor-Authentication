@@ -78,4 +78,5 @@ We envision a future where every blockchain wallet incorporates multi-layered se
 
 ## Contract Details
 0x94a4b795641915d7ad1af7a1edd8730cdb2faa43d7b1bdd539b199daee10d144
-![alt text](<Screenshot 2025-08-07 143927.png>)
+![alt text](<Screenshot 2025-08-07 171149.png>)
+
