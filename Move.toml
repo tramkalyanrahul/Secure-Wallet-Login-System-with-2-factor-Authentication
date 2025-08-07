@@ -1,0 +1,15 @@
+[package]
+name = "Two_fa"
+version = "1.0.0"
+authors = []
+
+[addresses]
+ram_addr="0x55889fab4019e0b7e401e3f227052fed0433551ee6b4ea7f14fdedddb316521e"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
